@@ -14427,7 +14427,7 @@ body.megamenu-popup-active .mobile-nav__content {
 .about-one__image img {
   max-width: none;
   height: auto;
-  border-radius: 20px;
+  border-radius: 0px;
 }
 @media (max-width: 1199px) {
   .about-one__image img {
