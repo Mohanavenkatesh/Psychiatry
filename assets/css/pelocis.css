@@ -12613,7 +12613,7 @@ body.megamenu-popup-active .mobile-nav__content {
   text-transform: uppercase;
   display: flex;
   align-items: center;
-  gap: 50px;
+  gap: 10px;
   margin-bottom: 21px;
 }
 @media (max-width: 668px) {
