@@ -3783,7 +3783,7 @@ h6 {
 
 .home-contact-one {
   background-color: var(--pelocis-black, #222222);
-  padding: 260px 0 112px;
+  padding: 160px 0 112px;
   position: relative;
   -webkit-mask: url('data:image/svg+xml;utf8,<svg viewBox="0 0 1920 969" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M0 124.777L235.25 40.1068L470.5 101.505L939.5 0L1294 127.252H1607H1920V969H0V124.777Z"/></svg>');
   mask: url('data:image/svg+xml;utf8,<svg viewBox="0 0 1920 969" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M0 124.777L235.25 40.1068L470.5 101.505L939.5 0L1294 127.252H1607H1920V969H0V124.777Z"/></svg>');
@@ -5199,7 +5199,7 @@ h6 {
 }
 
 .sticky-header--cloned {
-  position: fixed;
+  position: fixed !important;
   top: 0;
   left: 0;
   right: 0;
